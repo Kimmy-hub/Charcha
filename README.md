@@ -29,7 +29,7 @@ This project aims to create a social media platform where users can connect, sha
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/HARSH-KUMAR-111/Social-Media-Website.git
+   git clone (https://github.com/Kimmy-hub/Charcha.git)
 
 2. Navigate to the Project directory:
    ```bash
