@@ -46,9 +46,11 @@ This project aims to create a social media platform where users can connect, sha
 Access the application in your browser at http://localhost:3000.
 
 ## Highights
-![image](https://github.com/HARSH-KUMAR-111/Social-Media-Website/assets/92089591/57a0d513-1369-4495-ad32-0c9f76ef1a45)
+![image](![Screenshot 2024-11-27 164031](https://github.com/user-attachments/assets/8d55579b-fcbc-4212-a317-c9ae9a90a7d8)
+)
 __Login Page__
- ![image](https://github.com/HARSH-KUMAR-111/Social-Media-Website/assets/92089591/a8eab568-98c6-4867-8a45-bc5189293ca4)
+ ![image](![Screenshot 2024-11-27 164015](https://github.com/user-attachments/assets/2987f9cd-bacd-49c3-a655-f55a2b00fd4e)
+)
                                                        __Home Page__
 
 ## Contributing
